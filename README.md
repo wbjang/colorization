@@ -1,4 +1,8 @@
-### Colorization
+### Paper
+
+See this link for the paper - https://arxiv.org/pdf/1812.10650.pdf
+
+### Codes
 
 This GitHub contains codes for Sampling Using Neural Network - Colorization. I made each python files self-executable if you have CUDA and PyTorch.
 
