@@ -13,5 +13,5 @@ The main idea of this paper is to explore the possibilities of generating sample
 
 ### Author
 
-Wonbong Jang (Wayne), This is based on my dissertation at MSc in Computational Statistics and Machine Learning at University College London. He is currently a visiting fellow at London School of Economics working with Prof. Milan Vojnovic. He is originally from South Korea, and he is quite interested in Neural Networks itself and its applications to various domains. Feel free to contact me if you have any questions about this paper (or machine learning in overall) - won (dot)jang1108(at)gmail (dot)com
+Wonbong Jang (Wayne), This is based on my dissertation at MSc in Computational Statistics and Machine Learning at University College London, supervised by Dr. Iasonas Kokkinos. After finishing MSc at UCL, he is currently a visiting fellow at London School of Economics working with Prof. Milan Vojnovic. He is originally from South Korea, and he is quite interested in Neural Networks itself and its applications to various domains. Feel free to contact me if you have any questions about this paper (or machine learning in overall) - won(dot)jang1108(at)gmail(dot)com
 
